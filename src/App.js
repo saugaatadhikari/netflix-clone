@@ -10,7 +10,7 @@ function App() {
       <Nav />
       <Banner />
       <Row
-        title="Netflix Originals"
+        title="Netflex Duplicate (Renamed for legal Reasons)"
         fetchURL={request.fetchNetflixOriginals}
         isLargeRow={true}
       />
